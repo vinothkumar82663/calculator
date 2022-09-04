@@ -1,4 +1,4 @@
-# calculator
+# Calculator in C
 
 C Program to Make a Simple Calculator Using switch...case
 
