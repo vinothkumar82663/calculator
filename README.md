@@ -11,4 +11,4 @@ This program takes an arithmetic operator +, -, *, / and two operands from the u
 
 <p><strong>Output image:</strong>&nbsp;</p>
 
- <img src="img/cal-output.png" alt="cal output" width="500" height="600"> 
+ <img src="cal.png" alt="cal output" width="800" height="500"> 
