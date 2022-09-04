@@ -8,3 +8,7 @@ This program takes an arithmetic operator +, -, *, / and two operands from the u
 8-9
 8*7
 8/3</pre>
+
+<p><strong>Output image:</strong>&nbsp;</p>
+
+ <img src="img/cal-output.png" alt="cal output" width="500" height="600"> 
