@@ -13,4 +13,4 @@ This program takes an arithmetic operator +, -, *, / and two operands from the u
 
  <img src="cal.png" alt="cal output" width="800" height="500"> 
 
-<h1>Thankyou</h1>
+
